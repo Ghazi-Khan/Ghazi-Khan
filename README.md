@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Ghazi 👋
 
 <!--
 **Ghazi-Khan/Ghazi-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
